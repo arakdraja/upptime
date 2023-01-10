@@ -22,9 +22,9 @@
     "url": "https://app.presilia.id/core/dashboard/default/signin",
     "icon": "https://icons.duckduckgo.com/ip3/app.presilia.id.ico",
     "slug": "presilia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 2096,
     "timeMonth": 1535,
     "timeYear": 1489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   }
 ]
