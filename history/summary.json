@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1891,
-    "timeDay": 1438,
-    "timeWeek": 1375,
-    "timeMonth": 1382,
-    "timeYear": 1891,
+    "time": 1886,
+    "timeDay": 1238,
+    "timeWeek": 1333,
+    "timeMonth": 1377,
+    "timeYear": 1886,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "presilia",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 1487,
-    "timeDay": 1388,
-    "timeWeek": 1987,
-    "timeMonth": 1526,
-    "timeYear": 1487,
+    "time": 1485,
+    "timeDay": 1241,
+    "timeWeek": 1363,
+    "timeMonth": 1518,
+    "timeYear": 1485,
     "dailyMinutesDown": {
       "2023-01-10": 56
     }
