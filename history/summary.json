@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.sintesys.id.ico",
     "slug": "sintesys",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1828,
-    "timeDay": 1170,
-    "timeWeek": 1270,
-    "timeMonth": 1336,
-    "timeYear": 1828,
-    "dailyMinutesDown": {
-      "2023-01-25": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1824,
+    "timeDay": 1317,
+    "timeWeek": 1272,
+    "timeMonth": 1305,
+    "timeYear": 1824,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Presilia",
@@ -26,17 +24,16 @@
     "slug": "presilia",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 1469,
+    "time": 1468,
     "timeDay": 1360,
-    "timeWeek": 1366,
-    "timeMonth": 1489,
-    "timeYear": 1469,
+    "timeWeek": 1356,
+    "timeMonth": 1482,
+    "timeYear": 1468,
     "dailyMinutesDown": {
-      "2023-01-25": 11,
       "2023-01-10": 56
     }
   }
