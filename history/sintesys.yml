@@ -1,7 +1,7 @@
 url: https://app.sintesys.id/core/dashboard/default/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-10T14:13:51.268Z
+status: up
+code: 200
+responseTime: 1353
+lastUpdated: 2023-09-10T14:25:29.510Z
 startTime: 2022-08-30T06:03:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
